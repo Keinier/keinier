@@ -9,6 +9,6 @@ You can learn more about me and my content at https://keiniernotes.com .
 - 🌱 I’m currently learning Artificial Intelligence
 - 👯 I’m looking to collaborate on a Microsoft Business Solution project
 - 💬 Ask me about Microsoft Dynamics, Power Platform, Power BI, Microsoft Azure, and Copilot
-- 📫 How to reach me: my email keinier@gmail.com
+- 📫 How to reach me: my email keinier@betaboxtech.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: code, programming, apps, algorithms, Microsoft Community
