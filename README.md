@@ -12,3 +12,12 @@ You can learn more about me and my content at https://keiniernotes.com .
 - 📫 How to reach me: my email keinier@betaboxtech.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: code, programming, apps, algorithms, Microsoft Community
+
+### Technology Stack
+
+<a href="https://github.com/microsoft/AL" title="AL" rel="nofollow"><img src="https://img.shields.io/badge/-AL-blue?style=flat-square" alt="AL" width="21px" height="21px" style="max-width: 100%;"></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="CSharp" rel="nofollow"><img src="https://github.com/get-icon/geticon/blob/master/icons/c-sharp.svg" alt="CSharp" width="21px" height="21px" style="max-width: 100%;"></a>
+<a href="https://dotnet.microsoft.com/en-us/apps/xamarin" title="Xamarin" rel="nofollow"><img src="https://github.com/get-icon/geticon/blob/master/icons/xamarin.svg" alt="Xamarin" width="21px" height="21px" style="max-width: 100%;"></a>
+<a href="https://azure.microsoft.com/" title="Azure" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/azure-icon.svg" alt="Azure" width="21px" height="21px" style="max-width: 100%;"></a>
+<a href="https://www.docker.com/" title="Docker" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="Docker" width="21px" height="21px" style="max-width: 100%;"></a>
+
